@@ -32,3 +32,14 @@ This folder contains simulation evidence for my Verilog RTL designs.
 - Result: All testbench checks passed.
 -![D flipflop Simulation](d_flip_flop_simulation.png.jpeg)
 
+
+## 4-bit Counter
+
+- Simulator: Icarus Verilog 12.0
+- Verification: Counter increment and wraparound checked.
+- Result: Counter increments and wraps from 15 to 0.
+- ![ 4-bit Counter Simulation](4-bit_Counter.png.jpeg)
+- 
+- 
+
+
