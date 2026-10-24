@@ -39,5 +39,16 @@ This folder contains simulation evidence for my Verilog RTL designs.
 - Verification: Counter increment and wraparound checked.
 - Result: Counter increments and wraps from 15 to 0.
 ![ 4-bit Counter Simulation](4bit_counter_simulation.png.jpeg)
+
+
+## 1011 Sequence Detector (FSM)
+
+- **Design:** 08_FSM/sequence_detector_1011.v
+- **Testbench:** 04_testbenches/tb_sequence_detector_1011.v
+- **Simulation tool:** EDA Playground (Icarus Verilog)
+- **Result:** PASS — detected the sequence 1011 on the fourth input bit.
+- **Evidence:** See the uploaded FSM simulation screenshot in this folder.
+![1011 sequence detector using an FSM Simulation](1011_sequence_detector_using_an_FSM_simulation.png.jpeg)
+
   
 
