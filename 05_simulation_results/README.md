@@ -38,7 +38,7 @@ This folder contains simulation evidence for my Verilog RTL designs.
 - Simulator: Icarus Verilog 12.0
 - Verification: Counter increment and wraparound checked.
 - Result: Counter increments and wraps from 15 to 0.
-- ![ 4-bit Counter Simulation](4-bit_Counter.png.jpeg)
+- ![ 4-bit Counter Simulation](4bit_counter_simulation.png.jpeg)
 - 
 - 
 
