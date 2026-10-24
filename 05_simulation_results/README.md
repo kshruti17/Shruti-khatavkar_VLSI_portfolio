@@ -39,7 +39,5 @@ This folder contains simulation evidence for my Verilog RTL designs.
 - Verification: Counter increment and wraparound checked.
 - Result: Counter increments and wraps from 15 to 0.
 - ![ 4-bit Counter Simulation](4bit_counter_simulation.png.jpeg)
-- 
-- 
-
+  
 
