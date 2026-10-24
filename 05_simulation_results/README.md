@@ -23,3 +23,12 @@ This folder contains simulation evidence for my Verilog RTL designs.
 - Verification: All eight input combinations checked.
 - Result: Sum and carry outputs match the expected full-adder truth table.
 -![Full Adder Simulation](full_adder_simulation.png.jpeg)
+
+
+## D Flip-Flop
+
+- Simulator: Icarus Verilog 12.0
+- Verification: Reset, data capture, and data retention checked.
+- Result: All testbench checks passed.
+-![D flipflop Simulation](d_flip_flop_simulation.png.jpeg)
+
